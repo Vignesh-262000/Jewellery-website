@@ -1,0 +1,103 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<link rel="stylesheet" href="D:/html/css/chairman.css">
+<TITLE>lalithaajewellery</TITLE>
+</HEAD>
+<BODY>
+
+<div class="a">
+<center><marquee direction="right to left" >Today: Gold 22k - 1g = Rs. 5465 | Today: Silver 1g = Rs. 77.00 | Today: Platinum 1g = Rs. 3289</marquee></center>
+</div>
+
+<div class="b">
+<div>
+<img src="D:\html\image\flogo.jpg" width="200" height="100">
+</div>
+
+<div>
+<h1>Always welcome You </h2>
+</div>
+
+<div class="c">
+<div>
+<nav>
+<a href="D:\html\finalwebsite\jwellery.html">Home</a>
+<a href="D:\html\finalwebsite\schemes.html">schemes</a>
+<a href="D:\html\finalwebsite\blog.html">Blog</a>
+<a href="D:\html\finalwebsite\contact.html">Contact</a>
+</nav>
+</div>
+</div>
+</div>
+
+<div class="d">
+<nav>
+<a href="D:\html\finalwebsite\gold.html">Gold</a>
+<a href="D:\html\finalwebsite\silver.html">Silver</a>
+<a href="D:\html\finalwebsite\diamond.html">Diamond</a>
+<a href="">Chairman Message</a>
+</nav>
+</div>
+
+<center>
+<div class ="e">
+<div>
+<h1>Chairman Message<h1>
+<img src="D:\html\image\chairman-message-new.webp">
+</div>
+<div>
+<h2>This will change the way you buy jewellery.</h2>
+<p>At age seven, I had struggled for a decent meal at home. I joined the jewellery trade as a child worker. Formal education was out of question. The experience of a tough life turned out to be my teacher. Hence, I am able to understand the hardships of a common man better than most other jewellers.
+
+Let me ask you a simple question. Why do we work so hard, day in and day out, ignoring food on time and even conditions like BP, Diabetes, etc.? To earn and save, isn’t? Why waste such hard-earned money in a split second? Should you not check the price before buying something?
+
+I am sure you know jewellery to the Indian household is not just for ornamentation – It offers an emotional security to the family. Furthermore, a blessing in times of hardship. Not buying it at the right price is a waste of investment!
+
+Every showroom is promoting offers and discounts now and then. Think why! Just calculate the net physical weight of gold you take home against the money paid by you. Compare this between shops and identify the showroom that gives you the maximum net grams of gold!
+
+Also ensure the gold jewels you buy are BIS 916 Hallmarked and diamond jewels have an Internationally Recognised Quality Certificate. In the case of diamond jewellery, do not pay a rupee more for a carat than what it’s worth.
+
+We, at LalithaaJewellery, are happy to sell ornaments at manufacturing price to you.Visit as many jewellery showrooms as possible to compare prices, with our estimate slip and mobile pic. of the jewel.
+
+We are the only people to allow you to photograph our ornaments and openly give estimate slip for any jewellery, for you to compare price and buy !
+
+Let paying high prices be a thing of the past! Welcome</p>
+</div>
+</div>
+
+</center>
+<footer>
+<div class="n">
+<div>
+<h1>Location</h1>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3949.248166044634!2d77.42054867545042!3d8.177736170848124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b04f12014a55555%3A0x9cece71c51214914!2sLalithaa%20Jewellery%20Mart%20(P)%20Ltd!5e0!3m2!1sen!2sin!4v1689172847851!5m2!1sen!2sin" 
+width="300" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="o">
+<div>
+<h1>Information</h1>
+<a href="D:\html\finalwebsite\blog.html">Blog</a>
+<a href="D:\html\finalwebsite\contact.html">Contact</a>
+</div>
+
+<div class="p">
+<div>
+<h1>Contact Us</h1>
+<pre>
+ No.53, Icon Savithri Ganesh Building, Habibullah Road, T. Nagar, Chennai – 17.
+ info@lalithaajewellery.com
+ 90999 99916
+</pre>
+</div>
+</div>
+</div>
+</div>
+
+
+
+</footer>
+
+</body>
+</html>

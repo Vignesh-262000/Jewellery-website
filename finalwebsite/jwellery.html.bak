@@ -1,0 +1,135 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<link rel="stylesheet" href="D:/html/css/jwel.css">
+<TITLE>lalithaajewellery</TITLE>
+</HEAD>
+<BODY>
+
+<div class="a">
+<center><marquee direction="right to left" >Today: Gold 22k - 1g = Rs. 5465 | Today: Silver 1g = Rs. 77.00 | Today: Platinum 1g = Rs. 3289</marquee></center>
+</div>
+
+<div class="b">
+<div>
+<img src="D:\html\image\flogo.jpg" width="200" height="100">
+</div>
+
+<div>
+<h1>Always welcome You </h2>
+</div>
+
+<div class="c">
+<div>
+<nav>
+<a href="">Home</a>
+<a href="D:\html\finalwebsite\schemes.html">schemes</a>
+<a href="D:\html\finalwebsite\blog.html">Blog</a>
+<a href="D:\html\finalwebsite\contact.html">Contact</a>
+</nav>
+</div>
+</div>
+</div>
+
+<div class="d">
+<nav>
+<a href="D:\html\finalwebsite\gold.html">Gold</a>
+<a href="D:\html\finalwebsite\silver.html">Silver</a>
+<a href="D:\html\finalwebsite\diamond.html">Diamond</a>
+<a href="D:\html\finalwebsite\chairman.html">Chairman Message</a>
+</nav>
+</div>
+
+<div class="e">
+<img src="D:\html\image\main-banner-031.webp" width="100%" height="600">
+</div>
+
+<div class="f">
+<center><h1>Jwellery Collection</h1></center>
+</div>
+
+
+<div class="g">
+<div>
+<marquee direction="right to left"><b>WEDDING COLLECTION :</b> Fresh collections have arrived for the marriage season.</marquee>
+</div>
+</div>
+
+
+<div class="h">
+<center><a href="D:\html\finalwebsite\wedjwel.html"><img src="D:\html\image\wedding.webp"></a></center>
+<center><a href="D:\html\finalwebsite\earjwel.html"><img src="D:\html\image\ear.webp"></a></center>
+<center><a href="D:\html\finalwebsite\necklejwel.html"><img src="D:\html\image\neckle.webp"></a></center>
+<center><a href="D:\html\finalwebsite\ringjwel.html"><img src="D:\html\image\ring.webp"></a></center>
+</div>
+
+<div class="i">
+<div>
+<h1>Purity & Trust</h1>
+<p>For over four decades, Lalithaa Jewellery has garnered the trust & love of jewellery buyers across South India.
+ While exquisiteness of designs is a formidable factor, 
+ absolute transparency in pricing and market’s lowest V.A.Charges are the other reasons why we are the most preferred name for all things precious in Jewellery.</P>
+</div>
+
+<div>
+<img src="D:\html\image\purity.webp" width="600" height="290">
+</div>
+</div>
+
+<div class="j">
+<div>
+<img src="D:\html\image\virtual.webp" width="600" height="290">
+</div>
+
+<div>
+<h1>Video Shopping - Coming soon</h1>
+<p>Soon, you can browse, select and shop for your favourite jewellery from Lalithaa with our special video call feature. 
+Experience personalized real-time shopping with our video call feature and get the experience of shopping at Lalithaa store replicated at your home!</p>
+</div>
+</div>
+
+<div class="k">
+<center><video src="D:\html\videos\add.mp4" type="D:\html\videos\add\mp4" width="" height="" controls autoplay muted loop>
+<src="D:\html\videos\add.ogg" type="D:\html\videos\add\ogg" width="" height="" controls autoplay muted loop></center>
+</div>
+
+
+<div class="l">
+<center><img src="D:\html\image\goldmine-banner.v2.webp" ></center>
+</div>
+
+<div class="m">
+<marquee direction="right to left">Thanks for visiting</marquee>
+</div>
+
+<footer>
+<div class="n">
+<div>
+<center><h1>Location</h1><center>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3949.248166044634!2d77.42054867545042!3d8.177736170848124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b04f12014a55555%3A0x9cece71c51214914!2sLalithaa%20Jewellery%20Mart%20(P)%20Ltd!5e0!3m2!1sen!2sin!4v1689172847851!5m2!1sen!2sin" 
+width="300" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div>
+<h1>Information</h1>
+<li><a href="D:\html\finalwebsite\blog.html">Blog</a></li>
+<li><a href="D:\html\finalwebsite\contact.html">Contact</a></li>
+</div>
+
+
+<div>
+<h1>Contact Us</h1>
+<pre>
+ No.53, Icon Savithri Ganesh Building, Habibullah Road, T. Nagar, Chennai – 17.
+ info@lalithaajewellery.com
+ 90999 99916
+</pre>
+</div>
+</div>
+
+
+
+
+</footer>
+</body>
+</html>
